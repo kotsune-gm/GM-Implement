@@ -1,4 +1,4 @@
 ![banner](images/banner.png)
-### GM-Implement - Русская версия
+### GM-Implement - [Русская версия](README_ru.md)
 
-Простое расширение, позволяющее в простой форме описывать интерфейсы и реализовывать их в функциях-конструкторах или объектах. Инструмент создан для **отладки**: игра на этапе компиляции сообщит вам о фатальной ошибке реализации интерфейса, если вдруг вы забыли объявить один из его методов
+A simple extension that allows you to define interfaces in a simple form and implement them in constructor functions or objects. This extension is designed for **debugging**: the game will inform you about a fatal interface implementation error during the compilation if you forget to define one of its methods
